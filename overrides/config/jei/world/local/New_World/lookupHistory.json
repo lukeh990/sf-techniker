@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ballistix:launcherplatformtier2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:chat_box"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

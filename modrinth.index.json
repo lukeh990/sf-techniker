@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "",
+  "name": "SF-Techniker",
+  "summary": null,
+  "files": [],
+  "dependencies": {
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.216"
+  }
+}
